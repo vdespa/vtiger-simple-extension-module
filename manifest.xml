@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<module>
+    <!-- Module name -->
+    <name>SimpleExtension</name>
+    <!-- This is the name that will appar in the Vtiger GUI -->
+    <label>Simple Ext.</label>
+    <!-- Module will be listed under Tools -->
+    <parent>Tools</parent>
+    <!-- Module version -->
+    <version>1.0</version>
+    <!-- Dependencies -->
+    <dependencies>
+        <!-- To install in Vtiger 6, this needs to be >= 6.0.0 -->
+        <vtiger_version>6.0.0rc</vtiger_version>
+    </dependencies>
+</module>
