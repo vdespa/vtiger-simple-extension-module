@@ -2,12 +2,12 @@
 <module>
     <!-- Module name -->
     <name>SimpleExtension</name>
-    <!-- This is the name that will appar in the Vtiger GUI -->
+    <!-- This is the name that will appear in the Vtiger GUI -->
     <label>Simple Ext.</label>
     <!-- Module will be listed under Tools -->
     <parent>Tools</parent>
     <!-- Module version -->
-    <version>1.0</version>
+    <version>1.1</version>
     <!-- Dependencies -->
     <dependencies>
         <!-- To install in Vtiger 6, this needs to be >= 6.0.0 -->
