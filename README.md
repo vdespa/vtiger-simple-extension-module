@@ -1,4 +1,4 @@
-Vtiger - Building a simple extension module
+Vtiger - Building a simple extension module ![](https://img.shields.io/badge/maintained%3F-no!-red.svg?style=flat)
 ==============================
 
 This repo presents a minimalistic structure for a basic extension module for Vtiger.
